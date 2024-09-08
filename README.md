@@ -1,6 +1,3 @@
-
-Ecco il file README.md aggiornato con la sezione facoltativa relativa alla ricerca sulle honeypot:
-
 BenchmarkM4
 Author: TheWatchmakerXI
 Descrizione
