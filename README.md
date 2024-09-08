@@ -1,5 +1,7 @@
 BenchmarkM4
 Author: TheWatchmakerXI
+
+
 Descrizione
 BenchmarkM4 è un progetto che dimostra lo sfruttamento della vulnerabilità Java RMI su una macchina Metasploitable utilizzando Metasploit. La vulnerabilità, nota come Remote Code Execution (RCE), consente a un attaccante di eseguire codice arbitrario su una macchina remota attraverso la porta 1099, che espone il servizio Java RMI.
 
